@@ -10,7 +10,7 @@ Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses
 ![Gambar 1](ss/ss1.png)
 
 Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
-![Gambar 1](ss/ss2.2.png)
+![Gambar 2](ss/ss0.png)
 #### 3. Cek Versi Git
 setelah proses instalasi selesai kemudian kita cek apakah instalasi berjalan dengan benar atau ada error dengan mengecek versi dari git melalui **Command Prompt**. Klik Win+R lalu ketik CMD untuk membuka Command Prompt seperti di bawah ini.
 (IMAGE)
