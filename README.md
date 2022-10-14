@@ -58,6 +58,7 @@ Setelah itu akan muncul **_Git Bash Command_**
 Kemudian setelah login kita bisa membuat directory untuk project pertama yang kita namai misalkan LatihanVCS dengan menuliskan
 
 **$ mkdir latihanVCS**
+
 **$ cd latihanVCS**
 
 ![Gambar 9](ss/ss9.png)
