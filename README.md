@@ -60,7 +60,7 @@ Kemudian setelah login kita bisa membuat directory untuk project pertama yang ki
 **$ mkdir latihanVCS**
 **$ cd latihanVCS**
 
-![Gambar 9](ss9/ss9.png)
+![Gambar 9](ss/ss9.png)
 ### 4. Ubah Folder Menjadi Repository
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
 
