@@ -54,19 +54,23 @@ Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder ters
 Setelah itu akan muncul **_Git Bash Command_**
 
 ![Gambar 8](ss/ss8.png)
-### 4. Buat Direktory Project
+### 5. Buat Direktory Project
 Kemudian setelah login kita bisa membuat directory untuk project pertama yang kita namai misalkan LatihanVCS dengan menuliskan
 
 **$ mkdir latihanVCS**
 **$ cd latihanVCS**
-(IMAGE)
-### 5. Ubah Folder Menjadi Repository
+
+![Gambar 9](ss9/ss9.png)
+### 4. Ubah Folder Menjadi Repository
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
 
 **$ git init**
 
+![Gambar 10](ss/ss10.png)
+
 Repository baru berhasil di inisialisasi, dengan terbentuknya satu
 direktori hidden dengan nama .git
+
 ### 7. Menambahkan File Baru ke Repository
 Untuk membuat file dapat menggunakan text editor, lalu menyimpan
 filenya pada direktori aktif (repository)
