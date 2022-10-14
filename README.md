@@ -18,9 +18,12 @@ setelah proses instalasi selesai kemudian kita cek apakah instalasi berjalan den
 ![Gambar 3](ss/ss3.png)
 
 Selanjutnya masukkan perintah berikut untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda.
+
 **git --version**
+
 Jika Git berhasil terinstall, maka akan terlihar versi dari git kita
-(IMAGE)
+
+![Gambar 4](ss/ss4.png)
 ## Cara Menggunakan Git
 #
 #### 1. Login Git
