@@ -82,16 +82,22 @@ Lalu buat file disini kita akan coba buat satu file bernama README .md (text fil
 ### 8. Membuat Commit 
 Selanjutnya, Anda perlu membuat Commit. Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan. Masukkan perintah berikut untuk membuat Commit:
 
-**$ git commit -m "File pertama saya"**
+**$ git commit -m "First Commit"**
+
+![Gambar 11](ss/ss14.png)
 
 ### 9. Membuat Akun Github
 Dalam belajar menggunakan Git Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.
-(IMAGE)
+
+![Gambar 12](ss/ss12.png)
+
 ### 10. Membuat Repository Server
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
-(IMAGE)
-(IMAGE)
+
+![Gambar 13](ss/ss13.png)
+![Gambar 14](ss/ss11.png)
+
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
 
 Anda perlu mengisi detail informasi berikut:
