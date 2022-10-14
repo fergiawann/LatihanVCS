@@ -106,3 +106,5 @@ Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah
 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya.
 # (IMAGE)
+
+[def]: ss/ss0.png
