@@ -95,7 +95,7 @@ Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar d
 ### 10. Membuat Repository Server
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
 
-![Gambar 13](ss/ss13.png)
+![Gambar 13](ss/ss13.jpg)
 ![Gambar 14](ss/ss11.png)
 
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
