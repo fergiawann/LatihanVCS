@@ -98,7 +98,7 @@ Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengirim hasil a
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 (IMAGE)
 Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:
-(IMAGE)
+#(IMAGE)
 #### 14. Cek File 
 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya.
