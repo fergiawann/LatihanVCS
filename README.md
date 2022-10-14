@@ -42,8 +42,6 @@ Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berik
 
 **$ git config --list**
 
-![Gambar 5](ss/ss6.png)
-
 #### 2. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file yang telah Anda buat.
 (IMAGE)
