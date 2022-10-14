@@ -25,7 +25,6 @@ Jika Git berhasil terinstall, maka akan terlihar versi dari git kita
 
 ![Gambar 4](ss/ss4.png)
 ## Cara Menggunakan Git
-#
 #### 1. Login Git
 Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
 user .name dan user.email. konfigurasi ini bisa dilakukan untuk global repostiry atau individual
@@ -34,12 +33,16 @@ saat menjalankan perintah git commit
 masukkan username GitHub Anda menggunakan perintah di bawah ini. Lalu tekan ENTER jika sudah benar.
 
 **$ git config --global username "UsernameAnda"**
+
 **$ git config --global user.email "IsiDenganEmailAnda @gmail.com"**
+
+![Gambar 5](ss/ss5.png)
 
 Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
 
 **$ git config --list**
-(IMAGE)
+
+![Gambar 5](ss/ss6.png)
 
 #### 2. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file yang telah Anda buat.
