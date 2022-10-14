@@ -49,7 +49,7 @@ Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya 
 ### 3. Buka Folder Menggunakan Git Bash
 Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here**. 
 
-![Gambar 7](ss/ss7.png)
+![Gambar 7](ss/ss7.jpg)
 
 Setelah itu akan muncul **_Git Bash Command_**
 
