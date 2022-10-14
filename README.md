@@ -4,7 +4,7 @@
  Ini adalah langkah-langkah cara penggunaan git mulai dari cara mendownload gitbash hingga bisa menggunakan git
   #### 1.Download File Git
  file git bisa didownload di situs resmi git (git-scm.com). Download sesuai tipe sistem operasi pada komputer Anda. Apabila tipe sistem operasi komputer Anda 64bit,  pilih Git yang mendukung Windows 64bit. Tujuannya adalah agar tidak terjadi error saat proses instalasi Git.
- (IMAGE)
+ 
  #### 2. Install Git
 Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses instalasi. Halaman awal setelah Anda membuka setup aplikasi Git adalah tampilan Document License dari Git. Klik Next untuk melanjutkan instalasi.
 ![Gambar 1](ss/ss1.png)
@@ -98,7 +98,7 @@ Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombo
 ![Gambar 13](ss/ss13.jpg)
 ![Gambar 14](ss/ss11.png)
 
-Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
+Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di atas ini.
 
 Anda perlu mengisi detail informasi berikut:
 
@@ -119,12 +119,14 @@ Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengirim hasil a
 **$ git push -u origin master**
 
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
-(IMAGE)
+
+![Gambar 15](ss/ss15.png)
+
 Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:
-# (IMAGE)
+
+![Gambar 16](ss/ss16.png)
 ### 14. Cek File 
 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya.
-# (IMAGE)
 
-[def]: ss/ss0.png
+![Gambar 17](ss/ss17.png)
